@@ -1,14 +1,15 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace WindowsFormsApplication14
 {
     static class Program
     {
         /// <summary>
-        /// Uygulamanın ana girdi noktası.
+        /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
